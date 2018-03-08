@@ -1,0 +1,300 @@
+[submodule "apertium-hye"]
+	path = apertium-hye
+	url = git@github.com:apertium/apertium-hye.git
+	branch = master
+[submodule "apertium-urd"]
+	path = apertium-urd
+	url = git@github.com:apertium/apertium-urd.git
+	branch = master
+[submodule "apertium-deu"]
+	path = apertium-deu
+	url = git@github.com:apertium/apertium-deu.git
+	branch = master
+[submodule "apertium-ltz"]
+	path = apertium-ltz
+	url = git@github.com:apertium/apertium-ltz.git
+	branch = master
+[submodule "apertium-nld"]
+	path = apertium-nld
+	url = git@github.com:apertium/apertium-nld.git
+	branch = master
+[submodule "apertium-tur"]
+	path = apertium-tur
+	url = git@github.com:apertium/apertium-tur.git
+	branch = master
+[submodule "apertium-kum"]
+	path = apertium-kum
+	url = git@github.com:apertium/apertium-kum.git
+	branch = master
+[submodule "apertium-eng"]
+	path = apertium-eng
+	url = git@github.com:apertium/apertium-eng.git
+	branch = master
+[submodule "apertium-ara"]
+	path = apertium-ara
+	url = git@github.com:apertium/apertium-ara.git
+	branch = master
+[submodule "apertium-bul"]
+	path = apertium-bul
+	url = git@github.com:apertium/apertium-bul.git
+	branch = master
+[submodule "apertium-gag"]
+	path = apertium-gag
+	url = git@github.com:apertium/apertium-gag.git
+	branch = master
+[submodule "apertium-fao"]
+	path = apertium-fao
+	url = git@github.com:apertium/apertium-fao.git
+	branch = master
+[submodule "apertium-swe"]
+	path = apertium-swe
+	url = git@github.com:apertium/apertium-swe.git
+	branch = master
+[submodule "apertium-srd"]
+	path = apertium-srd
+	url = git@github.com:apertium/apertium-srd.git
+	branch = master
+[submodule "apertium-gla"]
+	path = apertium-gla
+	url = git@github.com:apertium/apertium-gla.git
+	branch = master
+[submodule "apertium-ind"]
+	path = apertium-ind
+	url = git@github.com:apertium/apertium-ind.git
+	branch = master
+[submodule "apertium-nog"]
+	path = apertium-nog
+	url = git@github.com:apertium/apertium-nog.git
+	branch = master
+[submodule "apertium-slv"]
+	path = apertium-slv
+	url = git@github.com:apertium/apertium-slv.git
+	branch = master
+[submodule "apertium-isl"]
+	path = apertium-isl
+	url = git@github.com:apertium/apertium-isl.git
+	branch = master
+[submodule "apertium-dan"]
+	path = apertium-dan
+	url = git@github.com:apertium/apertium-dan.git
+	branch = master
+[submodule "apertium-ell"]
+	path = apertium-ell
+	url = git@github.com:apertium/apertium-ell.git
+	branch = master
+[submodule "apertium-nno"]
+	path = apertium-nno
+	url = git@github.com:apertium/apertium-nno.git
+	branch = master
+[submodule "apertium-pol"]
+	path = apertium-pol
+	url = git@github.com:apertium/apertium-pol.git
+	branch = master
+[submodule "apertium-afr"]
+	path = apertium-afr
+	url = git@github.com:apertium/apertium-afr.git
+	branch = master
+[submodule "apertium-spa"]
+	path = apertium-spa
+	url = git@github.com:apertium/apertium-spa.git
+	branch = master
+[submodule "apertium-heb"]
+	path = apertium-heb
+	url = git@github.com:apertium/apertium-heb.git
+	branch = master
+[submodule "apertium-kaa"]
+	path = apertium-kaa
+	url = git@github.com:apertium/apertium-kaa.git
+	branch = master
+[submodule "apertium-oci"]
+	path = apertium-oci
+	url = git@github.com:apertium/apertium-oci.git
+	branch = master
+[submodule "apertium-uzb"]
+	path = apertium-uzb
+	url = git@github.com:apertium/apertium-uzb.git
+	branch = master
+[submodule "apertium-nob"]
+	path = apertium-nob
+	url = git@github.com:apertium/apertium-nob.git
+	branch = master
+[submodule "apertium-bak"]
+	path = apertium-bak
+	url = git@github.com:apertium/apertium-bak.git
+	branch = master
+[submodule "apertium-zlm"]
+	path = apertium-zlm
+	url = git@github.com:apertium/apertium-zlm.git
+	branch = master
+[submodule "apertium-ava"]
+	path = apertium-ava
+	url = git@github.com:apertium/apertium-ava.git
+	branch = master
+[submodule "apertium-eus"]
+	path = apertium-eus
+	url = git@github.com:apertium/apertium-eus.git
+	branch = master
+[submodule "apertium-sqi"]
+	path = apertium-sqi
+	url = git@github.com:apertium/apertium-sqi.git
+	branch = master
+[submodule "apertium-uig"]
+	path = apertium-uig
+	url = git@github.com:apertium/apertium-uig.git
+	branch = master
+[submodule "apertium-hbs"]
+	path = apertium-hbs
+	url = git@github.com:apertium/apertium-hbs.git
+	branch = master
+[submodule "apertium-bre"]
+	path = apertium-bre
+	url = git@github.com:apertium/apertium-bre.git
+	branch = master
+[submodule "apertium-mlt"]
+	path = apertium-mlt
+	url = git@github.com:apertium/apertium-mlt.git
+	branch = master
+[submodule "apertium-mar"]
+	path = apertium-mar
+	url = git@github.com:apertium/apertium-mar.git
+	branch = master
+[submodule "apertium-qve"]
+	path = apertium-qve
+	url = git@github.com:apertium/apertium-qve.git
+	branch = master
+[submodule "apertium-por"]
+	path = apertium-por
+	url = git@github.com:apertium/apertium-por.git
+	branch = master
+[submodule "apertium-kmr"]
+	path = apertium-kmr
+	url = git@github.com:apertium/apertium-kmr.git
+	branch = master
+[submodule "apertium-fra"]
+	path = apertium-fra
+	url = git@github.com:apertium/apertium-fra.git
+	branch = master
+[submodule "apertium-ron"]
+	path = apertium-ron
+	url = git@github.com:apertium/apertium-ron.git
+	branch = master
+[submodule "apertium-quz"]
+	path = apertium-quz
+	url = git@github.com:apertium/apertium-quz.git
+	branch = master
+[submodule "apertium-zho"]
+	path = apertium-zho
+	url = git@github.com:apertium/apertium-zho.git
+	branch = master
+[submodule "apertium-ita"]
+	path = apertium-ita
+	url = git@github.com:apertium/apertium-ita.git
+	branch = master
+[submodule "apertium-ukr"]
+	path = apertium-ukr
+	url = git@github.com:apertium/apertium-ukr.git
+	branch = master
+[submodule "apertium-ast"]
+	path = apertium-ast
+	url = git@github.com:apertium/apertium-ast.git
+	branch = master
+[submodule "apertium-cym"]
+	path = apertium-cym
+	url = git@github.com:apertium/apertium-cym.git
+	branch = master
+[submodule "apertium-glv"]
+	path = apertium-glv
+	url = git@github.com:apertium/apertium-glv.git
+	branch = master
+[submodule "apertium-hin"]
+	path = apertium-hin
+	url = git@github.com:apertium/apertium-hin.git
+	branch = master
+[submodule "apertium-glg"]
+	path = apertium-glg
+	url = git@github.com:apertium/apertium-glg.git
+	branch = master
+[submodule "apertium-sah"]
+	path = apertium-sah
+	url = git@github.com:apertium/apertium-sah.git
+	branch = master
+[submodule "apertium-mkd"]
+	path = apertium-mkd
+	url = git@github.com:apertium/apertium-mkd.git
+	branch = master
+[submodule "apertium-rus"]
+	path = apertium-rus
+	url = git@github.com:apertium/apertium-rus.git
+	branch = master
+[submodule "apertium-crh"]
+	path = apertium-crh
+	url = git@github.com:apertium/apertium-crh.git
+	branch = master
+[submodule "apertium-cos"]
+	path = apertium-cos
+	url = git@github.com:apertium/apertium-cos.git
+	branch = master
+[submodule "apertium-tet"]
+	path = apertium-tet
+	url = git@github.com:apertium/apertium-tet.git
+	branch = master
+[submodule "apertium-san"]
+	path = apertium-san
+	url = git@github.com:apertium/apertium-san.git
+	branch = master
+[submodule "apertium-chv"]
+	path = apertium-chv
+	url = git@github.com:apertium/apertium-chv.git
+	branch = master
+[submodule "apertium-kaz"]
+	path = apertium-kaz
+	url = git@github.com:apertium/apertium-kaz.git
+	branch = master
+[submodule "apertium-ces"]
+	path = apertium-ces
+	url = git@github.com:apertium/apertium-ces.git
+	branch = master
+[submodule "apertium-kir"]
+	path = apertium-kir
+	url = git@github.com:apertium/apertium-kir.git
+	branch = master
+[submodule "apertium-arg"]
+	path = apertium-arg
+	url = git@github.com:apertium/apertium-arg.git
+	branch = master
+[submodule "apertium-bel"]
+	path = apertium-bel
+	url = git@github.com:apertium/apertium-bel.git
+	branch = master
+[submodule "apertium-bua"]
+	path = apertium-bua
+	url = git@github.com:apertium/apertium-bua.git
+	branch = master
+[submodule "apertium-lvs"]
+	path = apertium-lvs
+	url = git@github.com:apertium/apertium-lvs.git
+	branch = master
+[submodule "apertium-tuk"]
+	path = apertium-tuk
+	url = git@github.com:apertium/apertium-tuk.git
+	branch = master
+[submodule "apertium-ben"]
+	path = apertium-ben
+	url = git@github.com:apertium/apertium-ben.git
+	branch = master
+[submodule "apertium-scn"]
+	path = apertium-scn
+	url = git@github.com:apertium/apertium-scn.git
+	branch = master
+[submodule "apertium-tyv"]
+	path = apertium-tyv
+	url = git@github.com:apertium/apertium-tyv.git
+	branch = master
+[submodule "apertium-tat"]
+	path = apertium-tat
+	url = git@github.com:apertium/apertium-tat.git
+	branch = master
+[submodule "apertium-cat"]
+	path = apertium-cat
+	url = git@github.com:apertium/apertium-cat.git
+	branch = master
