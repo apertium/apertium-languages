@@ -298,3 +298,7 @@
 	path = apertium-cat
 	url = git@github.com:apertium/apertium-cat.git
 	branch = master
+[submodule "apertium-fin"]
+	path = apertium-fin
+	url = git@github.com:apertium/apertium-fin.git
+	branch = master
