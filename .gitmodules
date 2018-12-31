@@ -306,3 +306,7 @@
 	path = apertium-nio
 	url = git@github.com:apertium/apertium-nio.git
 	branch = master
+[submodule "apertium-yid"]
+	path = apertium-yid
+	url = git@github.com:apertium/apertium-yid.git
+	branch = master
