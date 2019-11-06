@@ -310,3 +310,7 @@
 	path = apertium-szl
 	url = git@github.com:apertium/apertium-szl.git
 	branch = master
+[submodule "apertium-wad"]
+	path = apertium-wad
+	url = git@github.com:apertium/apertium-wad.git
+	branch = master
