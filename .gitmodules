@@ -314,3 +314,7 @@
 	path = apertium-wad
 	url = git@github.com:apertium/apertium-wad.git
 	branch = master
+[submodule "apertium-tki"]
+	path = apertium-tki
+	url = git@github.com:apertium/apertium-tki.git
+	branch = master
