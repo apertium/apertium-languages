@@ -318,3 +318,7 @@
 	path = apertium-tki
 	url = git@github.com:apertium/apertium-tki.git
 	branch = master
+[submodule "apertium-quc"]
+	path = apertium-quc
+	url = git@github.com:apertium/apertium-quc.git
+	branch = master
