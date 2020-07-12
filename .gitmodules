@@ -330,3 +330,7 @@
 	path = apertium-tzh
 	url = git@github.com:apertium/apertium-tzh.git
 	branch = master
+[submodule "apertium-cak"]
+	path = apertium-cak
+	url = git@github.com:apertium/apertium-cak.git
+	branch = master
