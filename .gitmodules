@@ -322,3 +322,7 @@
 	path = apertium-quc
 	url = git@github.com:apertium/apertium-quc.git
 	branch = master
+[submodule "apertium-evn"]
+	path = apertium-evn
+	url = git@github.com:apertium/apertium-evn.git
+	branch = master
