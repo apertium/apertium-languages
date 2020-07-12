@@ -326,3 +326,7 @@
 	path = apertium-evn
 	url = git@github.com:apertium/apertium-evn.git
 	branch = master
+[submodule "apertium-tzh"]
+	path = apertium-tzh
+	url = git@github.com:apertium/apertium-tzh.git
+	branch = master
