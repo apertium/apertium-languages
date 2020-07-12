@@ -334,3 +334,7 @@
 	path = apertium-cak
 	url = git@github.com:apertium/apertium-cak.git
 	branch = master
+[submodule "apertium-alt"]
+	path = apertium-alt
+	url = git@github.com:apertium/apertium-alt.git
+	branch = master
